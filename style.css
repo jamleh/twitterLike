@@ -1,0 +1,17 @@
+.red{
+	background-color: red;
+	color:white;
+}
+body{
+	background: url(images/twitter-background.jpg) no-repeat center center fixed;
+font-size: x-large;
+	background-size:cover;
+	opacity: 0.75;
+}
+.fixed{
+	 vertical-align: top;
+}
+#dateOfTweet{
+	z-index: 99;
+	text-align: right;
+}
